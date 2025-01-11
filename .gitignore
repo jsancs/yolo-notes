@@ -1,0 +1,3 @@
+*.pt
+yolo-Weights/
+__pycache__/
